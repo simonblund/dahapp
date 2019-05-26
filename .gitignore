@@ -28,3 +28,7 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+
+### Everything else ###
+application.properties
+dahapp/src/main/resources/application.properties
