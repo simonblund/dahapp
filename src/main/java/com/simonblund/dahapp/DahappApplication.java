@@ -7,7 +7,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @MappedTypes(User.class)
-@MapperScan("com.simonblund.dahap.data")
+@MapperScan("com.simonblund.dahapp.data")
 @SpringBootApplication
 public class DahappApplication {
 
